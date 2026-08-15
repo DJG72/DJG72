@@ -256,31 +256,6 @@ Optimize
 * [ ] 💼 Prepare for software engineering opportunities
 * [ ] 📈 Maintain consistent GitHub activity
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/DJG72">
-  <img src="https://github-readme-stats.vercel.app/api?username=DJG72&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
-</a>
-
-<a href="https://github.com/DJG72">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJG72&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</a>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=DJG72&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -291,17 +266,6 @@ Optimize
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DJG72&theme=tokyo-night&hide_border=true" />
 
 </div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=DJG72&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
 
 ---
 
